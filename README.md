@@ -4,12 +4,11 @@ Description-A PHP project in which a user can register for an account and login 
 
 # Required
 
-A web browser to run the html file.
+Xampp application installed 
 
 
 # To make the code work 
-
-Open the html file with your web browser.(Internet explorer,microsoft edge or google chrome would work)
+Create a folder in the C:\xampp\htdocs folder and navigate to that directory using your browser and run the index.php file to run the application.
 
 # LICENSE:
 NOT FOR COMMERCIAL USE If you intend to use any of my code for commercial use please contact me and get my permission. If you intend to make money using any of my code please ask my permission.
