@@ -8,7 +8,7 @@ Xampp application installed
 
 
 # To make the code work
-Create a folder at C:\xampp\htdocs in your hard drive and move all the above program files there.
+Create a folder inside the "htdocs" folder which is inside the xampp folder that contains all the xampp program files.(It is located in the C drive inside your hard drive)
 Then navigate to the directory where you placed your index.php file using your browser and run the index.php file to start the application.
 
 # LICENSE:
