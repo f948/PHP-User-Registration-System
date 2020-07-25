@@ -5,9 +5,10 @@ Description-A PHP project in which a user can register for an account and login 
 # Required
 
 Xampp application installed 
-
+Nodepad or Nodepad ++ installed
 
 # To make the code work
+Copy and paste the code from this repository into Nodepad and save the files with the same names as listed above
 Create a folder inside the "htdocs" folder which is inside the xampp folder that contains all the xampp program files.(It is located in the C drive inside your hard drive)
 Then navigate to the directory where you placed your index.php file using your browser and run the index.php file to start the application.
 
