@@ -1,4 +1,4 @@
-# User Registration System-
+# Express User Registration System-
 
 Description-A PHP project in which a user can register for an account and login to the account and also change his/her username and password.Uses PHP and SQl to perform database queries.
 
